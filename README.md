@@ -1,2 +1,46 @@
 # ml_labs
-Several labs on preprocessing data, naive Bayes classifier, SVM classifier, Random Forest Classifier, Extra Trees Classifier, Decision Tree  Classifier, KMeans, Mean Shift, Agglomerative Clustering, metrics of quality etcs
+# 🧠 Machine Learning Labs
+
+A series of practical labs implementing core ML algorithms with real-world applications.
+
+## 🔍 Algorithms Implemented
+### Classification
+- Naive Bayes Classifier
+- Support Vector Machine (SVM)
+- Random Forest Classifier
+- Extra Trees Classifier
+- Decision Tree Classifier
+
+### Clustering
+- K-Means Clustering
+- Mean Shift Clustering
+- Agglomerative Clustering
+
+## 📈 Features
+- Data preprocessing pipelines
+- Comprehensive quality metrics evaluation
+- Visualization of results
+- Comparative analysis of algorithms перевод
+***
+# 🧠 Практикум по машинному обучению
+
+Цикл лабораторных работ, посвященных реализации базовых алгоритмов машинного обучения на практических примерах.
+
+## 🔍 Реализованные методы
+### Задачи классификации
+- Наивный байесовский классификатор
+- Метод опорных векторов (SVM)
+- Ансамбль случайных лесов (Random Forest)
+- Классификатор Extra Trees
+- Дерево решений
+
+### Задачи кластеризации
+- Алгоритм K-средних
+- Алгоритм Mean Shift
+- Иерархическая агломеративная кластеризация
+
+## 📈 Функциональные возможности
+- Пайплайны предобработки данных
+- Расширенная оценка качества моделей
+- Графическая визуализация результатов
+- Сравнительное исследование алгоритмов
